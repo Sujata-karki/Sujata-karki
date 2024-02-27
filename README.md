@@ -1,4 +1,4 @@
-<a href="https://app.daily.dev/sujatakarki"><img src="https://api.daily.dev/devcards/348c3ae25cf34b4cb8ef93e10d65205e.png?r=fno" width="400" alt="Sujata Karki's Dev Card"/></a>
+<a href="https://app.daily.dev/sujatakarki"><img src="https://api.daily.dev/devcards/v2/CCUEY6DpbajMBpVtrEmXW.png?r=epf" width="356" alt="Sujata Karki's Dev Card"/></a>
 <!--
 **Sujata-karki/Sujata-karki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
